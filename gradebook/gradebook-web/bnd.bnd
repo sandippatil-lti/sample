@@ -1,0 +1,5 @@
+Bundle-SymbolicName: gradebook.web
+Bundle-Version: 1.0.0
+Export-Package: \
+	com.liferay.training.space.gradebook.service.permission,\
+	com.liferay.training.space.gradebook.asset

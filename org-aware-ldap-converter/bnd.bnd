@@ -1,0 +1,5 @@
+
+Bundle-Name: Org Aware LDAPToPortalConverter
+Bundle-SymbolicName: com.space.ldap.converter
+Bundle-Version: 1.0.0
+				

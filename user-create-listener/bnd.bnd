@@ -1,0 +1,3 @@
+Bundle-SymbolicName: user.create.listener
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.model.listener.sample.api

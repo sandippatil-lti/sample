@@ -1,0 +1,3 @@
+Bundle-SymbolicName: sample.auto.login
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.autologin.sample.api

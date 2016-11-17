@@ -1,0 +1,3 @@
+Bundle-SymbolicName: doc.media.action
+Bundle-Version: 1.0.0
+Export-Package: com.example.api
