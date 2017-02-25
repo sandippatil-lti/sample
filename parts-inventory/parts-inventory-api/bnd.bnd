@@ -1,0 +1,7 @@
+Bundle-SymbolicName: parts.inventory-api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.liferay.training.parts.exception,\
+	com.liferay.training.parts.model,\
+	com.liferay.training.parts.service,\
+	com.liferay.training.parts.service.persistence
