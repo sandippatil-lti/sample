@@ -1,2 +1,3 @@
 # platformdevbladeprojects
-All the changes will be done here
+All the code level changes will be done here.
+The repository is related to the platform blade dev projects experiment
